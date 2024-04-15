@@ -1,8 +1,6 @@
 <h2 align="left">Hi there</h2>
 
-###
 
-<p align="left">My name is Kevin and I'm a ..., from ....</p>
 
 ###
 
